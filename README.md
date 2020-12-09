@@ -81,10 +81,7 @@
                 <img src="https://cl.ly/3g150z3B1g2g/Screen%20Shot%202017-04-07%20at%206.35.59%20PM.png">
               <h2>What is Bootstrap?</h2>
               
-              <p>In the <a href="https://codehs.com/info/curriculum/web_design">CodeHS Web Design course</a>, we are learning how to build websites using Bootstrap! <a href="https://getbootstrap.com/">Bootstrap</a> is framework for developing responsive, mobile websites. It's like a toolbox for web developers. Click here to learn more!</p>
-              <p><a class="btn btn-default" href="./bootstrap.html" role="button">View details &raquo;</a></p>
-            </div>
-            <div class="col-md-4">
+              <p>In the <a href="https://codehs.com/info/curriculum/web_design">Ccoding</a>, we are learning how to build websites HTML and CSS im not very good at so imma fail but might as well try because you never know 
                 <br>
                 <img src="https://cl.ly/383H0O1k173r/Screen%20Shot%202017-04-07%20at%206.43.51%20PM.png">
               
@@ -95,19 +92,7 @@
               <br>
               <img src="https://cl.ly/2W1l3l220k0e/Screen%20Shot%202017-04-07%20at%207.01.07%20PM.png">
              
-              
-              <p>This Website was built by Student Group 3. Click here to meet the team!</p>
-              <p><a class="btn btn-default" href="./team.html" role="button">View details &raquo;</a></p>
-            </div>
-          </div>
-    
-          <hr>
-    
-          <footer>
-            <p>Made with love by <a href="./team.html">Student Group 3</a></p>
-            <h6>Inspired by the <a href="https://getbootstrap.com/examples/jumbotron/">Jumbotron Bootstrap Example</a></h6>
-          </footer>
-        </div>
+
             
     </body>
 </html>
